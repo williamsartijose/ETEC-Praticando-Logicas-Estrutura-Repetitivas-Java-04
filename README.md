@@ -87,7 +87,7 @@ Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos est
 conforme exemplo
 
 
-![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/14.PNG)
+![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/144.PNG)
 
 #### Problema "par_impar"
 
