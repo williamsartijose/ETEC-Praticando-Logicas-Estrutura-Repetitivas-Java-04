@@ -8,6 +8,7 @@ Testando a Logica de Programação usando as Estrutura-Repetitivas  = https://gi
 
 ## Estrutura while (enquanto)
 #### Problema "crescente" -  
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaCrescente.java)
 
 Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma
@@ -16,6 +17,7 @@ programa deve finalizar quando forem digitados dois valores iguais.
 ![Web 2](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/1.png)
 
 #### Problema "media_idades"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaMediaIdade.java)
 
 Faça um programa para ler um número indeterminado de dados, contendo cada um, a idade de um
@@ -26,6 +28,7 @@ mostrar a mensagem "IMPOSSIVEL CALCULAR".
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/2.png)
 
 #### Problema "senha_fixa"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/problemaSenhaFixa.java)
 
 Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de
@@ -36,6 +39,7 @@ encerrado. Considere que a senha correta é o valor 2002.
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/3.png)
 
 #### Problema "quadrante"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaQuadrante.java)
 
 Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no
@@ -47,6 +51,7 @@ escrever mensagem alguma).
 
 
 #### Problema "validacao_de_nota"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaValidacaoDeNota.java)
 
 Faça um programa que leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a
@@ -56,6 +61,7 @@ intervalo [0,10]). Cada nota deve ser validada separadamente.
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/5.png)
 
 #### Problema "combustivel"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaCombustivel.java)
 
 Um posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes.
@@ -70,6 +76,7 @@ como as quantidades de cada combustível.
 ## Estrutura for (para) 
 
 #### Problema "tabuada"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaTabuada.java )
 
 Ler um número inteiro N, daí mostrar na tela a tabuada de N para 1 a 10, conforme exemplo.
@@ -77,6 +84,7 @@ Ler um número inteiro N, daí mostrar na tela a tabuada de N para 1 a 10, confo
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/11.png)
 
 #### Problema "soma_impares"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaParImpar.java)
 
 Leia 2 valores inteiros X e Y (em qualquer ordem). A seguir, calcule e mostre a soma dos números
@@ -85,6 +93,7 @@ impares entre eles.
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/12.png)
 
 #### Problema "sequencia_impares"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaSequenciaImpares.java)
 
 Leia um valor inteiro X. Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X,
@@ -94,6 +103,7 @@ se for o caso.
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/12.png)
 
 #### Problema "dentro_fora"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaDentroFora.java)
 
 Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida.
@@ -104,6 +114,7 @@ conforme exemplo
 ![Web 1](https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/144.PNG)
 
 #### Problema "par_impar"
+#### Problema "Resolvido abaixo" -  
 (https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaParImpar.java)
 
 Leia um valor inteiro N. Este valor será a quantidade de números inteiros que serão lidos em seguida.
@@ -116,6 +127,10 @@ apenas NULO.
 
 
 ## DESAFIO: Atletas Java 
+#### Problema "Resolvido abaixo" -  
+(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/tree/main/src/Desafio)
+
+
 Fazer um programa para ler uma quantidade N (supor N > 0), depois ler os dados de N atletas (nome,
 sexo, altura, peso). Depois, mostrar um relatório contendo:
  Peso médio dos atletas
