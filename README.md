@@ -5,7 +5,6 @@
 
 Testando a Logica de Programação usando as Estrutura-Repetitivas  = https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04
 
-
 ## Estrutura while (enquanto)
 #### Problema "crescente" -  
 #### Problema "Resolvido abaixo" -  
